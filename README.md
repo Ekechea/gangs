@@ -1,3 +1,3 @@
 # gangs
 Webmap
-https://ekechea.github.io/gangs/
+https://HaitiHumanity.github.io/gangs/
